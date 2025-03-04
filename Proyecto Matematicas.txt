@@ -1,0 +1,45 @@
+* PARA PODER CORRER EL PROGRAMA *
+Necesita tener instalado Python en su dispositivo, la versión 3.9 es suficiente.
+Para ejecutarlo necesita correr primero el archivo main.py, este archivo abre la interfaz para poder ser usado.
+
+* INSTRUCCIONES DE USO *
+
+/////////////////////////////////////// TODA LETRA UTILIZADA DENTRO DEL PROGRAMA DEBE SER UTILIZADA EN MINÚSCULA, NO EN MAYÚSCULA ///////////////////////////////////////
+
+Uso del Operador ** para Exponenciación:
+Utiliza ** para representar potencias en las ecuaciones.
+Ejemplo: Para ingresar ( x^2 ), escribe x**2.
+
+Uso de Operadores Matemáticos:
+
+Suma (+): Utiliza + para sumar términos.
+Resta (-): Utiliza - para restar términos.
+Multiplicación (*): Utiliza * para multiplicar términos.
+División (/): Utiliza / para dividir términos.
+Ejemplo Completo: Para ingresar la ecuación ( y' = y - x^2 + 1 ), escribe y - x**2 + 1.
+
+Uso de Funciones Matemáticas:
+
+Funciones Trigonométricas: Utiliza sin(x), cos(x), tan(x), etc.
+Funciones Exponenciales y Logarítmicas: Utiliza exp(x) para ( e^x ) y log(x) para el logaritmo natural.
+
+Valores Iniciales y Tamaño de Paso:
+
+x0: Ingresa el valor inicial de x.
+y0: Ingresa el valor inicial de y.
+h (paso): Ingresa el tamaño del paso h que deseas usar en el método de Euler Mejorado.
+
+Ejemplo: Para resolver la ecuación con ( x0 = 0 ), ( y0 = 0.5 ), y ( h = 0.2 ), ingresa 0, 0.5, y 0.2 respectivamente.
+
+Formato de Entrada:
+
+Ecuaciones: Asegúrate de que las ecuaciones estén en términos de x e y.
+Valores Numéricos: Asegúrate de que los valores iniciales y el tamaño del paso sean números válidos.
+
+Ejemplo Completo:
+Ecuación: y - x**2 + 1
+x0: 0
+y0: 0.5
+h: 0.2
+
+MARTÍN RICARDO CABELLO RODRÍGUEZ	21170074	8C	ING DyGS
